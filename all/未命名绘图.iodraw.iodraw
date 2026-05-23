@@ -22,7 +22,7 @@
         <mxCell id="reg_success" value="保存用户信息，注册成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="550" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="login_fill" value="提交账号、密码、角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="login_fill" value="提交账号、密码、角色" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="340" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="login_match" value="账号密码匹配且角色一致？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
