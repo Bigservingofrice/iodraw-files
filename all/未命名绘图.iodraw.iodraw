@@ -29,7 +29,7 @@
           <mxGeometry x="655" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="10" value="统一返回失败提示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="505" y="450" width="140" height="40" as="geometry" />
+          <mxGeometry x="776" y="440" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="11" value="普通用户还是管理员？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="635" y="520" width="150" height="90" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="494" y="620" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="13" value="进入后台管理面板" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="647" y="730" width="130" height="40" as="geometry" />
+          <mxGeometry x="646" y="730" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="14" value="清除会话，回到未登录状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="330" width="140" height="40" as="geometry" />
