@@ -23,13 +23,13 @@
           <mxGeometry x="220" y="550" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="login_fill" value="提交账号、密码、角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="300" width="190" height="50" as="geometry" />
+          <mxGeometry x="540" y="340" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="login_match" value="账号密码匹配且角色一致？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="login_fail" value="统一返回失败提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="550" width="160" height="50" as="geometry" />
+          <mxGeometry x="870" y="559" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="role_check" value="普通用户还是管理员？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="650" width="140" height="100" as="geometry" />
