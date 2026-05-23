@@ -72,7 +72,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="7" target="3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8" target="9">
           <mxGeometry relative="1" as="geometry" />
