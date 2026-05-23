@@ -29,7 +29,7 @@
           <mxGeometry x="600" y="400" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="login_fail" value="统一返回失败提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="350" width="160" height="50" as="geometry" />
+          <mxGeometry x="720" y="550" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="role_check" value="普通用户还是管理员？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="650" width="140" height="100" as="geometry" />
@@ -103,14 +103,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge_login_fail_back" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="login_fail" target="choice">
+        <mxCell id="edge_login_fail_back" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="login_fail" target="choice">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="520" />
               <mxPoint x="800" y="575" />
-              <mxPoint x="910" y="310" />
-              <mxPoint x="980" y="250" />
-              <mxPoint x="870" y="160" />
               <mxPoint x="800" y="170" />
               <mxPoint x="470" y="170" />
             </Array>
