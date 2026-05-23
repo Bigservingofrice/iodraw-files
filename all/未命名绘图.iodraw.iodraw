@@ -1,47 +1,47 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3472" dy="1144" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1818" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="331" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="435" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="选择注册/登录/退出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="120" width="140" height="40" as="geometry" />
+          <mxGeometry x="415" y="180" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4" value="填写用户名、密码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="91" y="200" width="130" height="40" as="geometry" />
+          <mxGeometry x="195" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5" value="用户名是否唯一？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="21" y="290" width="100" height="80" as="geometry" />
+          <mxGeometry x="125" y="350" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6" value="提示已存在" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="6" y="460" width="130" height="40" as="geometry" />
+          <mxGeometry x="110" y="520" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7" value="保存用户信息，注册成功" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="141" y="390" width="140" height="40" as="geometry" />
+          <mxGeometry x="245" y="450" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8" value="提交账号、密码、角色" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="536" y="210" width="140" height="40" as="geometry" />
+          <mxGeometry x="640" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9" value="账号密码匹配&lt;br&gt;且角色一致？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="551" y="280" width="110" height="80" as="geometry" />
+          <mxGeometry x="655" y="340" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="10" value="统一返回失败提示" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="401" y="390" width="140" height="40" as="geometry" />
+          <mxGeometry x="505" y="450" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="11" value="普通用户还是管理员？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="551" y="470" width="110" height="80" as="geometry" />
+          <mxGeometry x="655" y="530" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="12" value="进入图书浏览主页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="560" width="130" height="40" as="geometry" />
+          <mxGeometry x="494" y="620" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="13" value="进入后台管理面板" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="691" y="560" width="130" height="40" as="geometry" />
+          <mxGeometry x="795" y="620" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="14" value="清除会话，回到未登录状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="221" y="270" width="140" height="40" as="geometry" />
+          <mxGeometry x="325" y="330" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2" target="3">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="e4" value="退出" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="3" target="14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="291" y="140" />
+              <mxPoint x="395" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -68,7 +68,7 @@
         <mxCell id="e7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6" target="4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6" y="220" />
+              <mxPoint x="110" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,7 +78,7 @@
         <mxCell id="e9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="7" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="381" y="410" />
+              <mxPoint x="485" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,7 +91,7 @@
         <mxCell id="e12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="10" target="3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="381" y="410" />
+              <mxPoint x="485" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
