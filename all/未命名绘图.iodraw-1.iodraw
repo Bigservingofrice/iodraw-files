@@ -16,7 +16,7 @@
         <mxCell id="NjAqU9Y5rHBkyYTPuW-a-4" value="提取每本书的&#xa;Top‑N相似物品" style="shape=step;perimeter=stepPerimeter;strokeColor=#D6B656;fontFamily=Helvetica;fontSize=12;fontColor=#D6B656;fillColor=#fff2cc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
           <mxGeometry x="288" y="30" width="148" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="计算书籍推荐得分" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=12;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
+        <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="结果持久化到数据库" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=12;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
           <mxGeometry x="426" y="30" width="147" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UPh9_a2U0oJHn4_PGFhJ-1" value="返回推荐书籍ID" style="shape=step;perimeter=stepPerimeter;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];labelBackgroundColor=none;labelBorderColor=none;fontColor=#9249b6;textShadow=0;" vertex="1" parent="1">
