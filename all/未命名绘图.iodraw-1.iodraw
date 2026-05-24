@@ -20,7 +20,7 @@
           <mxGeometry x="426" y="30" width="147" height="59" as="geometry" />
         </mxCell>
         <mxCell id="UPh9_a2U0oJHn4_PGFhJ-1" value="返回推荐书籍ID" style="shape=step;perimeter=stepPerimeter;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];labelBackgroundColor=none;labelBorderColor=none;fontColor=#9249b6;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="645" y="142" width="147" height="59" as="geometry" />
+          <mxGeometry x="468" y="406" width="147" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
