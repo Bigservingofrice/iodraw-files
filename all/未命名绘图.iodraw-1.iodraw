@@ -19,7 +19,7 @@
         <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="计算书籍推荐得分" style="shape=step;perimeter=stepPerimeter;strokeColor=#B85450;fontFamily=Helvetica;fontSize=14;fontColor=#B85450;fillColor=#f8cecc;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="NjAqU9Y5rHBkyYTPuW-a-1" vertex="1">
           <mxGeometry x="426" y="30" width="147" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="UPh9_a2U0oJHn4_PGFhJ-1" value="计算书籍推荐得分" style="shape=step;perimeter=stepPerimeter;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=14;fillColor=#e1d5e7;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="UPh9_a2U0oJHn4_PGFhJ-1" value="计算书籍推荐得分" style="shape=step;perimeter=stepPerimeter;strokeColor=#9673a6;fontFamily=Helvetica;fontSize=14;fillColor=#e1d5e7;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];labelBackgroundColor=none;labelBorderColor=none;fontColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="645" y="142" width="147" height="59" as="geometry" />
         </mxCell>
       </root>
