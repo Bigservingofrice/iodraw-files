@@ -32,7 +32,7 @@
           <mxGeometry x="776" y="440" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="11" value="普通用户或管理员？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="636" y="529" width="148" height="79" as="geometry" />
+          <mxGeometry x="633" y="535" width="154" height="67" as="geometry" />
         </mxCell>
         <mxCell id="12" value="进入图书浏览主页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="781" y="590" width="130" height="40" as="geometry" />
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="e8" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5" target="7" edge="1">
           <mxGeometry x="-0.28" y="14" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="411" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
