@@ -52,14 +52,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e3" value="登录" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="3" target="8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.3067" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e4" value="退出" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="3" target="14" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0182" y="16" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="485" y="280" />
               <mxPoint x="485" y="280" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="4" target="5" edge="1">
