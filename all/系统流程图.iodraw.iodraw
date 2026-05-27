@@ -69,7 +69,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6" value="否" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5" target="6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.0889" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6" target="4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,7 +82,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e8" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="5" target="7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.28" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e10" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="8" target="9" edge="1">
           <mxGeometry relative="1" as="geometry" />
