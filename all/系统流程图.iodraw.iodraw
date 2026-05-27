@@ -34,7 +34,7 @@
         <mxCell id="11" value="普通用户或管理员？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="634" y="535" width="152" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="进入图书浏览主页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="12" value="进入图书浏览主页" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="781" y="590" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="13" value="进入后台管理面板" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
@@ -95,9 +95,7 @@
         <mxCell id="e11" value="否" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9" target="10" edge="1">
           <mxGeometry x="-0.4184" y="13" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="806" y="392" />
-              <mxPoint x="806" y="420" />
-              <mxPoint x="846" y="420" />
+              <mxPoint x="846" y="392" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
