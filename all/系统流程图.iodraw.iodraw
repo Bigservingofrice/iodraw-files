@@ -31,6 +31,9 @@
         <mxCell id="10" value="统一返回失败提示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;shape=parallelogram;perimeter=parallelogramPerimeter;" parent="1" vertex="1">
           <mxGeometry x="776" y="440" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="11" value="普通用户或管理员？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="633" y="535" width="152" height="62" as="geometry" />
+        </mxCell>
         <mxCell id="12" value="进入图书浏览主页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="781" y="590" width="130" height="40" as="geometry" />
         </mxCell>
@@ -94,25 +97,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e13" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9" edge="1">
+        <mxCell id="e13" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="9" target="11" edge="1">
           <mxGeometry y="-15" relative="1" as="geometry">
-            <mxPoint x="709" y="535" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e14" value="普通用户" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" target="12" edge="1">
+        <mxCell id="e14" value="普通用户" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="11" target="12" edge="1">
           <mxGeometry x="-0.3836" y="20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="846" y="565" />
             </Array>
             <mxPoint as="offset" />
-            <mxPoint x="777.0597014925372" y="565" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e16" value="管理员" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" target="13" edge="1">
+        <mxCell id="e16" value="管理员" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="1" source="11" target="13" edge="1">
           <mxGeometry x="0.0167" y="28" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="709" y="602" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
